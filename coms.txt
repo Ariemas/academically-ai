@@ -1,0 +1,3 @@
+input
+generate
+This is a test. Please respond with something cool.
